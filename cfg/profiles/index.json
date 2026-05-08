@@ -1,0 +1,13 @@
+{
+  "defaultSlug": "avery-stone",
+  "profiles": [
+    {
+      "slug": "avery-stone",
+      "name": "Avery Stone",
+      "title": "Product Engineer",
+      "avatarUrl": "/assets/default-avatar.svg",
+      "publicUrl": "/profile/avery-stone",
+      "updatedAt": 1778241515
+    }
+  ]
+}
